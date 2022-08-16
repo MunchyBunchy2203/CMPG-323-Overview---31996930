@@ -40,7 +40,7 @@ Log Files will also be ignored along with useless system files and generated fil
 <p align="center">Credentials for login and access to certain databases, servers etc will be stored locally in a seperate file and will only be made available to trusted personell. The .gitignore also provides for credential security.</p>
 
 <h2 align="center">Burndown Chart</h2>
-
+<img src="https://github.com/MunchyBunchy2203/CMPG-323-Overview---31996930/blob/main/Burndown.jpg" alt="Burndown">
 
 <h4>Things to note:</h4>
 <dl>
