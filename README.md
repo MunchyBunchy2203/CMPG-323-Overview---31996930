@@ -29,7 +29,7 @@
   <dd>This project will a branch allocated to Report Development and Data Connection and sub-stories if neccassary.</dd><br>
 </dl>
 
-<h3>The basic branching strategy for each project is shown below:</h3>
+<h3 align="center">The basic branching strategy for each project is shown below:</h3>
 <img src="https://i0.wp.com/digitalvarys.com/wp-content/uploads/2019/06/image-6.png?resize=1024%2C411&ssl=1" alt="Branching">
 
 <h2 align="right">.gitignore use</h2>
