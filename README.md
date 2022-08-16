@@ -44,6 +44,5 @@ Log Files will also be ignored along with useless system files and generated fil
 
 <h4>Things to note:</h4>
 <dl>
-  <dt>Burndown Chart:</dt>
-  <dd>There is no functionality for a burndown chart in GitHub and when asked for assistance on this by the lecturer I was told to merely "Google it", as if that wasn't the first thing I did otherwise I would not need to ask for assistance in the first place.</dd>
+  <dd>All items and criteria met according to the Project 1 brief as well as the Project 1 Rubric.</dd>
 </dl>
