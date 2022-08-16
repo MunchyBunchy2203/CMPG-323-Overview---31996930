@@ -39,6 +39,9 @@ Log Files will also be ignored along with useless system files and generated fil
 <h2 align="center">Credential Storage</h2>
 <p align="center">Credentials for login and access to certain databases, servers etc will be stored locally in a seperate file and will only be made available to trusted personell. The .gitignore also provides for credential security.</p>
 
+<h2 align="center">Burndown Chart</h2>
+
+
 <h4>Things to note:</h4>
 <dl>
   <dt>Burndown Chart:</dt>
