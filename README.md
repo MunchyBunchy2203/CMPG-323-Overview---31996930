@@ -29,6 +29,9 @@
   <dd>This project will a branch allocated to Report Development and Data Connection and sub-stories if neccassary.</dd><br>
 </dl>
 
+<h3>The basic branching strategy for each project is shown below:</h3>
+<img src="https://i0.wp.com/digitalvarys.com/wp-content/uploads/2019/06/image-6.png?resize=1024%2C411&ssl=1" alt="Branching">
+
 <h2 align="right">.gitignore use</h2>
 <p align="right">This file will be used to ignore files that has sensitive information.<br>
 Log Files will also be ignored along with useless system files and generated files.</p>
