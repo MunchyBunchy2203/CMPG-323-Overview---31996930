@@ -36,5 +36,5 @@
 <p align="right">This file will be used to ignore files that has sensitive information.<br>
 Log Files will also be ignored along with useless system files and generated files.</p>
 
-<h2 align="left">Credential Storage</h2>
-<p align="right">Credentials for login and access to certain databases, servers etc will be stored locally in a seperate file and will only be made available to trusted personell. The .gitignore also provides for credential security.</p>
+<h2 align="center">Credential Storage</h2>
+<p align="center">Credentials for login and access to certain databases, servers etc will be stored locally in a seperate file and will only be made available to trusted personell. The .gitignore also provides for credential security.</p>
