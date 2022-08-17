@@ -3,15 +3,15 @@
 <h2 align="left">Repository creation and uses</h2>
 <dl>
   <dt>Project 1: Github Familiarization</dt>
-  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Overview---31996930">Project 1</a></dd>
+  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Overview---31996930">Project 1</a> ----- Sprint 1 and 2</dd>
   <dt>Project 2: CRUD RESTful API</dt>
-  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-2---31996930">Project 2</a></dd>
+  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-2---31996930">Project 2</a> ----- Sprint 3 and 4</dd>
   <dt>Project 3: Architectural Patterns</dt>
-  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-3---31996930">Project 3</a></dd>
+  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-3---31996930">Project 3</a> ----- Sprint 4 and 5</dd>
   <dt>Project 4: RPA, UAT and UI</dt>
-  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-4---31996930">Project 4</a></dd>
+  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-4---31996930">Project 4</a> ----- Sprint 5, 6, 7 and 8</dd>
   <dt>Project 5: COI and Power BI</dt>
-  <dd><a href="https://github.com/MunchyBunchy2203/CPMG-323-Project-5---31996930">Project 5</a></dd>
+  <dd><a href="https://github.com/MunchyBunchy2203/CPMG-323-Project-5---31996930">Project 5</a> ----- Sprint 8</dd>
 </dl>
 
 <h2 align="center">Branching for Project</h2>
