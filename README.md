@@ -5,7 +5,7 @@
   <dt>Project 1: Github Familiarization</dt>
   <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Overview---31996930">Project 1</a> ----- Sprint 1 and 2</dd>
   <dt>Project 2: CRUD RESTful API</dt>
-  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-2---31996930">Project 2</a> ----- Sprint 3 and 4</dd>
+  <dd><a href="https://github.com/MunchyBunchy2203/CMPG323-Project-2---31996930">Project 2</a> ----- Sprint 3 and 4</dd>
   <dt>Project 3: Architectural Patterns</dt>
   <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-3---31996930">Project 3</a> ----- Sprint 4 and 5</dd>
   <dt>Project 4: RPA, UAT and UI</dt>
