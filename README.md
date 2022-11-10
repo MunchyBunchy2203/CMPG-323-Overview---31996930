@@ -11,7 +11,7 @@
   <dt>Project 4: RPA, UAT and UI</dt>
   <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-4---31996930">Project 4</a> ----- Sprint 5, 6, 7 and 8</dd>
   <dt>Project 5: COI and Power BI</dt>
-  <dd><a href="https://github.com/MunchyBunchy2203/CPMG-323-Project-5---31996930">Project 5</a> ----- Sprint 8</dd>
+  <dd><a href="https://github.com/MunchyBunchy2203/CMPG-323-Project-5---31996930">Project 5</a> ----- Sprint 8</dd>
 </dl>
 
 <h2 align="center">Branching for Project</h2>
